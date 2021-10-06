@@ -1,0 +1,2 @@
+false
+The b variable in the inner scope of the if block is a different variable than the one in the global scope

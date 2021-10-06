@@ -1,0 +1,8 @@
+{
+  firstName: 'Jane',
+  lastName: 'Doe'
+}
+
+The myFunction function reassigns the value of the firstName property of the global object a, which is possible even though a is a const variable, because there's no problem reassigning an object property as long as you don't reassign the entire a variable to a different value.
+
+The final console.log then logs the transformed a object to the console.

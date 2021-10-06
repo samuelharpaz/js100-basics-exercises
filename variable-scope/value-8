@@ -1,0 +1,2 @@
+2
+The code invokes the myFunction function using the variable b as the argument, that in turn is set to the parameter a in the function, and we log that to the console. The function parameter a shadows the variable a from the outer scope.

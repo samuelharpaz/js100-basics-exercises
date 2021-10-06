@@ -1,0 +1,2 @@
+1
+The function myFunction is able to access variables from its outer scope, in this case the global scope, so it can access the a variable without an issue.
